@@ -1,0 +1,79 @@
+{
+  "total_size": 6,
+  "type_id": 3,
+  "offset": 0,
+  "products": [
+    {
+      "id": 1,
+      "name": "Restaurant 1",
+      "about": "Description of Restaurant 1",
+      "price": 19,
+      "stars": 4,
+      "img": "res_image1.jpg",
+      "location": "New York",
+      "created_at": "2023-05-01",
+      "updated_at": "2023-05-10",
+      "type_id": 3
+    },
+    {
+      "id": 2,
+      "name": "Restaurant 2",
+      "about": "Description of Restaurant 2",
+      "price": 29,
+      "stars": 3,
+      "img": "res_image2.jpg",
+      "location": "Los Angeles",
+      "created_at": "2023-05-02",
+      "updated_at": "2023-05-11",
+      "type_id": 3
+    },
+    {
+      "id": 3,
+      "name": "Restaurant 3",
+      "about": "Description of Restaurant 3",
+      "price": 9,
+      "stars": 4,
+      "img": "res_image3.jpg",
+      "location": "Chicago",
+      "created_at": "2023-05-03",
+      "updated_at": "2023-05-12",
+      "type_id": 3
+    },
+    {
+      "id": 4,
+      "name": "Restaurant 4",
+      "about": "Description of Restaurant 4",
+      "price": 14,
+      "stars": 4,
+      "img": "res_image4.jpg",
+      "location": "San Francisco",
+      "created_at": "2023-05-04",
+      "updated_at": "2023-05-13",
+      "type_id": 3
+    },
+    {
+      "id": 5,
+      "name": "Restaurant 5",
+      "about": "Description of Restaurant 5",
+      "price": 24,
+      "stars": 4,
+      "img": "res_image5.jpg",
+      "location": "Seattle",
+      "created_at": "2023-05-05",
+      "updated_at": "2023-05-14",
+      "type_id": 3
+    },
+    {
+      "id": 6,
+      "name": "Restaurant 6",
+      "about": "Description of Restaurant 6",
+      "price": 39,
+      "stars": 4,
+      "img": "res_image6.jpg",
+      "location": "Miami",
+      "created_at": "2023-05-06",
+      "updated_at": "2023-05-15",
+      "type_id": 3
+    }
+  ]
+}

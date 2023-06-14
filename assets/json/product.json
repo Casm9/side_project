@@ -1,0 +1,79 @@
+{
+  "total_size": 6,
+  "type_id": 1,
+  "offset": 0,
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "about": "Description of Product 1",
+      "price": 19.99,
+      "stars": 4.5,
+      "img": "image1.jpg",
+      "location": "New York",
+      "created_at": "2023-05-01",
+      "updated_at": "2023-05-10",
+      "type_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "about": "Description of Product 2",
+      "price": 29.99,
+      "stars": 3.8,
+      "img": "image2.jpg",
+      "location": "Los Angeles",
+      "created_at": "2023-05-02",
+      "updated_at": "2023-05-11",
+      "type_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "about": "Description of Product 3",
+      "price": 9.99,
+      "stars": 4.2,
+      "img": "image3.jpg",
+      "location": "Chicago",
+      "created_at": "2023-05-03",
+      "updated_at": "2023-05-12",
+      "type_id": 1
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "about": "Description of Product 4",
+      "price": 14.99,
+      "stars": 4.8,
+      "img": "image4.jpg",
+      "location": "San Francisco",
+      "created_at": "2023-05-04",
+      "updated_at": "2023-05-13",
+      "type_id": 1
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "about": "Description of Product 5",
+      "price": 24.99,
+      "stars": 4.0,
+      "img": "image5.jpg",
+      "location": "Seattle",
+      "created_at": "2023-05-05",
+      "updated_at": "2023-05-14",
+      "type_id": 1
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "about": "Description of Product 6",
+      "price": 39.99,
+      "stars": 4.6,
+      "img": "image6.jpg",
+      "location": "Miami",
+      "created_at": "2023-05-06",
+      "updated_at": "2023-05-15",
+      "type_id": 1
+    }
+  ]
+}
