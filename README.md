@@ -1,4 +1,4 @@
-Food Delivery Mobile App for both iOS and Android devices.
+Food Delivery Mobile App for both iOS and Android devices. The app designed with Flutter.
 
 Features: 
 * login and registration service with API
