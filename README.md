@@ -1,8 +1,8 @@
-#GOGO
+# GOGO
 
 Food Delivery Mobile App for both iOS and Android devices. The app designed with Flutter.
 
-#Features 
+# Features 
 * login and registration service with API
 * user database with API
 * food database from specified restaurant with API
@@ -10,5 +10,5 @@ Food Delivery Mobile App for both iOS and Android devices. The app designed with
 * address selection with Google Maps API key service
 * order history saved in user account
 
-#User Interface
+# User Interface
 ![FoodApp](https://imgur.com/hhAdFz2.png)
