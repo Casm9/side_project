@@ -7,3 +7,5 @@ Features:
 * restaurant database with API
 * address selection with Google Maps API key service
 * order history saved in user account
+
+![FoodApp](https://imgur.com/hhAdFz2.png)
